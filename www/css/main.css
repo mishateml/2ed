@@ -1,0 +1,34 @@
+@font-face {
+    font-family: vian;
+    src: url('../fonts/Vibur regular.ttf') ;
+}
+.navbar-brand{
+    font-family: 'Vibur', cursive;
+    font-size: 26px;
+}
+.dropdown-menu{
+    background-color: rgba(51, 51, 51, 0.41);
+
+}
+.navbar-nav {
+    float:none;
+    margin:0 auto;
+    display: block;
+    text-align: center;
+}
+
+.navbar-nav > li {
+    display: inline-block;
+    float:none;
+}
+body{
+    background-color: rgba(192, 192, 192, 0.59);
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.box{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#s1 img{
+    border-style: groove;
+}
